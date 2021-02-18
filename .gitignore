@@ -7,3 +7,5 @@ models/
 models*/
 data/*/
 figures/
+.venv
+.temp
