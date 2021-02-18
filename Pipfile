@@ -5,7 +5,6 @@ verify_ssl = true
 
 [dev-packages]
 
-
 [packages]
 tensorflow = "==1.13.1"
 mir-eval = "==0.5"
@@ -14,7 +13,7 @@ SoundFile = "==0.10.2"
 librosa = "==0.6.3"
 pandas = "==0.24.2"
 matplotlib = "==3.0.3"
-
+numba = "==0.43.1"
 
 [requires]
 python_version = "3.6"
