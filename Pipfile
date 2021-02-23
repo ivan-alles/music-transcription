@@ -14,6 +14,7 @@ librosa = "==0.6.3"
 pandas = "==0.24.2"
 matplotlib = "==3.0.3"
 numba = "==0.43.1"
+mido = "*"
 
 [requires]
 python_version = "3.6"
