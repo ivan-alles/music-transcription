@@ -4,8 +4,8 @@ import mir_eval
 import datasets
 from .audio import check_dir
 import csv
-from madmom.io import midi
-from intervaltree import IntervalTree
+# from madmom.io import midi
+# from intervaltree import IntervalTree
 
 modulepath = os.path.dirname(os.path.abspath(__file__))
 CACHED_FILES_PATH = os.path.join(modulepath, "..", "cached")
